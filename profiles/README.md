@@ -1,2 +1,2 @@
-![Seagull Scientific Logo](https://raw.githubusercontent.com/Seagull-Scientific/.github/master/images/BarTender-Logo_RGB_Square.png)
+![Seagull Scientific Logo](https://raw.githubusercontent.com/Seagull-Scientific/.github/master/images/BarTender-Cloud-Logo-150.png)
 Want to learn more about our API check out the bartender-cloud-api repository.
